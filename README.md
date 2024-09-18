@@ -10,6 +10,8 @@ This repository contains a Python script for analyzing single-cell RNA sequencin
 
 You need:
 
+A decent notebook. I ran on a M3 with 36Gb.
+
 1. scRNA_datat.loom files 
 
 2. annotations.csv files for each cell code with machin CellID if you want to do cell annotations
@@ -19,3 +21,17 @@ You need:
 Skript is ready to test for PBMC_data_1.loom data For other formats (e.g .hd5 etc.), please adapt script accordingly. 
 
 LGM
+
+
+scanpy==1.9.1
+pandas==1.5.3
+numpy==1.24.4
+matplotlib==3.7.2
+seaborn==0.12.2
+leidenalg==0.8.4
+scipy==1.10.1
+loompy==3.0.7
+openpyxl==3.1.2
+igraph==0.10.7
+
+
