@@ -17,6 +17,18 @@ Scanpy Documentation: https://scanpy.readthedocs.io/en/stable/installation.html
 
 Requirements
 
-Ensure you have a suitable environment to run the pipeline. I successfully ran it on an M3 instance with 36 GB RAM, handling data from 20 patients and 120k cells.
+Ensure you have a suitable environment to run the pipeline. I successfully ran it on an Mac M3 with 36 GB RAM, handling data from 20 patients and 120k cells at ease.
 
+Required Files
 
+1.	scRNA Data Files
+	.loom files (e.g., PBMC_data_1.loom)
+	For other formats (e.g., .h5ad), adapt the script accordingly.
+2.	Annotations Files
+	annotations.csv for each cell code with matching CellID if you intend to perform cell annotations.
+3.	Gene List of Interest
+	Example: human_marker_genes.csv for PBMC.
+
+Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
