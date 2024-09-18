@@ -11,8 +11,9 @@ Note: This script is not intended for absolute beginners. If you’re new to scR
 
 References
 
-	•	sc-type by Ianevski Aleksandr: https://github.com/IanevskiAleksandr/sc-type
-	•	Scanpy Documentation: https://scanpy.readthedocs.io/en/stable/installation.html
+sc-type by Ianevski Aleksandr: https://github.com/IanevskiAleksandr/sc-type
+
+Scanpy Documentation: https://scanpy.readthedocs.io/en/stable/installation.html
 
 Requirements
 
