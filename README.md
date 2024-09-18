@@ -1,4 +1,4 @@
-# Quick python scRNA-Seq analysis pipeline in Scanpy and Scoring Cell Types
+# Quick python scRNA-Seq analysis pipeline in Scanpy for Scoring Cell Types and Marker Gene of Interest
 
 You want to analyze scRNASeq data from e.g. the output of a pipline such as https://nf-co.re/scrnaseq/2.6.0/
 
