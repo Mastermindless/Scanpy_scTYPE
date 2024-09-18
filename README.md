@@ -10,7 +10,7 @@ This repository contains a Python script for analyzing single-cell RNA sequencin
 
 You need:
 
-A decent notebook. I ran on a M3 with 36Gb.
+A decent notebook. I ran it on a M3 with 36Gb with 20 patients and 120k cells.
 
 1. scRNA_datat.loom files 
 
