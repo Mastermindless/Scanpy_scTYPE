@@ -3,7 +3,7 @@
 You want to analyze scRNASeq data from e.g. the output of a pipline such as https://nf-co.re/scrnaseq/2.6.0/
 
 Check out references:
-https://github.com/IanevskiAleksandr/sc-type
+https://github.com/IanevskiAleksandr/sc-type; 
 https://scanpy.readthedocs.io/en/stable/installation.html
 
 This repository contains a Python script for analyzing single-cell RNA sequencing (scRNA-seq) data using Scanpy and related libraries. The pipeline includes data preprocessing, quality control, normalization, dimensionality reduction, clustering, and cell type annotation using scTYPE inspired python code. This is not a pure beginners script so maybe take a course first if you are new to scRNASeq: https://www.sib.swiss/training/course/2021-03-sc-Transcriptomics
